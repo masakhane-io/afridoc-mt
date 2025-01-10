@@ -1,2 +1,2 @@
 # afridoc-mt
-A lacuna funded project
+In progress
