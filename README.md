@@ -5,3 +5,4 @@ The github page is still under construction. Please refer to the <a href="https:
 
 The project was generously funded by [Lacuna Fund](https://lacunafund.org/).
 
+License: CC BY-NC-SA 3.0 for Health, and CC BY-NC 4.0 for Tech
